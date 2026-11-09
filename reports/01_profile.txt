@@ -1,0 +1,20 @@
+Train: 20,631 rows, 100 engines | Test: 13,096 rows, 100 engines | RUL answers: 100
+Engine lifetimes (cycles): min 128, median 199, max 362
+Missing values: 0
+Constant (useless) columns in FD001: ['s1', 's5', 's10', 's16', 's18', 's19', 'set2', 'set3']
+Correlation of each useful sensor with RUL:
+s11   -0.70
+s4    -0.68
+s15   -0.64
+s2    -0.61
+s17   -0.61
+s3    -0.58
+s8    -0.56
+s13   -0.56
+s9    -0.39
+s14   -0.31
+s6    -0.13
+s20    0.63
+s21    0.64
+s7     0.66
+s12    0.67
